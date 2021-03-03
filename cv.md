@@ -3,15 +3,12 @@
 - tel: 87001354267
 - e-mail: kupzhasarov14@gmail.com 
 - skype: princepersie87
-
 ### About me ###
 I like to hard work
 ### Skills: ###
 - HTML, CSS
 - JS
 - photoshop
-
-
 ### Education: ###
 - self-study on diffrent internet courses
 ### English level: ###
