@@ -6,3 +6,13 @@
 ![alt text](https://i.pinimg.com/564x/94/7f/7c/947f7cc972b523b21bc5650e6f25b220.jpg)
 ### About me ###
 I like to hard work
+### Skills: ###
+- HTML, CSS
+- JS
+- photoshop
+
+
+### Education: ###
+- self-study on diffrent internet courses
+### English level: ###
+- B1 
