@@ -3,7 +3,8 @@ body{
     font-family: Arial, sans-serif;
     font-size: 15px;
     line-height: 1.5;
-    color:blanchedalmond;
+    color: #121212;
+    background-color:#F0FFFF;
 }
 
 *,
@@ -20,12 +21,40 @@ h1, h2, h3, h4, h5, h6{
     display: block;
     max-width: 100%;
     height: auto; 
-	margin-bottom: 20px;
-    width: 250px;
+	margin: 30px auto;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    
 }
 
 /* CV-Page */
 .cv-page{
     width: 1000px;
     margin: 20px auto;
+    background-color: #FFF8DC;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px #3f4368;
+}
+
+.container{
+    display: flex;
+}
+
+.cv-name{
+    margin-bottom: 30px;
+    padding: 40px 0 0 50px;
+    font-size: 50px;
+    line-height: 1.1;
+}
+
+.cv-contacts{
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.sidebar{
+    width: 700px;
+    padding: 10px;
+    background-color: #eee;
+
 }
