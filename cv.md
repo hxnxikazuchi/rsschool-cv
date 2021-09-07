@@ -43,3 +43,5 @@ return new Promise(resolve => setTimeout(() => resolve(task()), 2000))
 Fourth year of Karagandy Technical University
 
 
+## 8. English Level
+I have B1 level. With Native speakers I talked only via Internet.
