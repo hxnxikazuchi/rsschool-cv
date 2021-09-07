@@ -39,3 +39,7 @@ return new Promise(resolve => setTimeout(() => resolve(task()), 2000))
 * RSS(JavaScript/Front-end 2021Q1)
 
 
+## 7. Education
+Fourth year of Karagandy Technical University
+
+
