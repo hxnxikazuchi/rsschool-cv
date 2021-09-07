@@ -116,3 +116,7 @@ code {
   font-size: 1.6rem;
   color: #fff3eb;
 }
+
+.check {
+  display: none;
+}
