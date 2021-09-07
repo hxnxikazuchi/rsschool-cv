@@ -32,3 +32,10 @@ return new Promise(resolve => setTimeout(() => resolve(task()), 2000))
 ```
 
 
+## 6. Study history
+* Brainscloud Course(HTML, CSS)
+* Udemy Course(JavaScript)
+* learnjavascript
+* RSS(JavaScript/Front-end 2021Q1)
+
+
