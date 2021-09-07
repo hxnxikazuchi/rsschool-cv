@@ -26,7 +26,8 @@ body {
 .cv {
   display: flex;
   /* max-height: 100vh; */
-  height: calc(100vh - 2.5rem);
+
+  height: 910px;
   border: 1px solid #f5a3c1;
 }
 .me,
