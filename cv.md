@@ -24,3 +24,11 @@ I will obtain every useful knowledge and prove to myself than I can achieve my g
 * Git
 
 
+## 5. Piece of code
+```
+function antiOptimizeAsync(task) {
+return new Promise(resolve => setTimeout(() => resolve(task()), 2000))
+}
+```
+
+
