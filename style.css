@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap&subset=cyrillic-ext);
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  max-width: 1200px;
+  min-width: 740px;
+  margin: 0 auto;
+  padding: 1rem;
+  background: #f0efeb;
+}
+
+.cv {
+  display: flex;
+  /* max-height: 100vh; */
+  height: calc(100vh - 2.5rem);
+  border: 1px solid #f5a3c1;
+}
+.me,
+.about-me {
+  padding: 1rem;
+}
+.me {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 35%;
+  background: #fde2e4;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 65%;
+  background: #fad2e1;
+}
+
+.avatar {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: auto;
+  border-radius: 0.5rem;
+}
+
+.line {
+  display: block;
+  border: none;
+  color: white;
+  height: 1px;
+  background: #e4dde3;
+  background: -webkit-gradient(
+    radial,
+    50% 50%,
+    0,
+    50% 50%,
+    350,
+    from(#c5c2c5),
+    to(#c8edf3)
+  );
+  margin-bottom: 1rem;
+}
+
+.info-title {
+  font-size: 2.5rem;
+  color: #b1c5fc;
+  margin-bottom: 1rem;
+}
+.information {
+  color: #98cfd7;
+}
+
+.information p {
+  font-size: 1.6rem;
+}
+
+.info-list {
+  list-style-type: none;
+}
+
+.info-list li {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+.info-list li:last-child {
+  margin: 0;
+}
+
+.my-name {
+  font-size: 5rem;
+  color: #f5a3c1;
+}
+code {
+  font-size: 1.8rem;
+  background-color: #eee;
+  font-family: monospace;
+}
+
+.footer {
+  text-align: right;
+  font-size: 1.6rem;
+  color: #fff3eb;
+}
