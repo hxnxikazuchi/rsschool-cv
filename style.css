@@ -81,8 +81,16 @@ body {
   color: #b1c5fc;
   margin-bottom: 1rem;
 }
+.diff-color {
+  color: #5f86ef;
+}
+.social-img {
+  width: 100%;
+  max-width: 25px;
+  vertical-align: middle;
+}
 .information {
-  color: #98cfd7;
+  color: #547276;
 }
 
 .information p {
