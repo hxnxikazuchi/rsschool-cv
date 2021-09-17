@@ -121,8 +121,11 @@ code {
 
 .footer {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
   text-align: right;
   font-size: 2rem;
   color: #fff3eb;
@@ -132,7 +135,6 @@ code {
   width: 100%;
   max-width: 80px;
   vertical-align: middle;
-  margin-right: 40px;
 }
 
 .check {
