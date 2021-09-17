@@ -140,3 +140,26 @@ code {
 .check {
   display: none;
 }
+
+@media all and (max-width: 740px) {
+  body {
+    min-width: 320px;
+    max-width: 739px;
+  }
+  .cv {
+    flex-direction: column;
+    height: unset;
+  }
+  .me,
+  .about-me {
+    width: 100%;
+  }
+  .info-part {
+    margin-bottom: 1rem;
+  }
+}
+@media all and (max-width: 355px) {
+  .my-name {
+    font-size: 3rem;
+  }
+}
