@@ -120,9 +120,19 @@ code {
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: right;
-  font-size: 1.6rem;
+  font-size: 2rem;
   color: #fff3eb;
+}
+
+.footer-icon {
+  width: 100%;
+  max-width: 80px;
+  vertical-align: middle;
+  margin-right: 40px;
 }
 
 .check {
