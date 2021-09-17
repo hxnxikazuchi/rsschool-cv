@@ -163,3 +163,8 @@ code {
     font-size: 3rem;
   }
 }
+@media all and (max-width: 319px) {
+  body {
+    overflow-x: hidden;
+  }
+}
